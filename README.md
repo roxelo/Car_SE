@@ -1,6 +1,6 @@
 # Car_SE
 
-Software Engineering Project made by smillyman1 and roxelo.
+Software Engineering Project made by @smillyman1 and @roxelo.
 
 ![alt tag](https://github.com/roxelo/Car_SE/blob/master/Picture.JPG?raw=true)
 
